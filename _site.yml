@@ -1,0 +1,12 @@
+name: "IAU_II_TP_final"
+title: "IAUII - Trabajo Práctico Final"
+description: |
+  IAUII - Trabajo Práctico Final
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article
